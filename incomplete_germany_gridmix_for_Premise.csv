@@ -1,0 +1,16 @@
+﻿Label;Energy Source;Unit;2019;2022;2023;2024;2030;2050;Category;Notes
+wind_onshore;Onshore wind;%;17,69;20,39;26,46;33;28,72;34,2;Renewable;would put on and ofshore in 1 common energy source (wind)
+wind_offshore;Offshore wind;%;4,38;5,02;5,24;;11,54;17,6;Renewable;
+solar;Photovoltaik;%;8,06;11,21;12,32;14,5;26,71;22,6;Renewable;
+biomass;Biomass;%;8,76;8;8,53;8,9;6,71;;Renewable;
+hydro;Hydro;%;3,5;2,51;3,22;5,3;3,09;3,3;Renewable;
+bhkw_small;Klein-BHKW;%;;;;;;2,3;Fossil;
+chp_large;KWK, groß;%;;;;;;9,4;Fossil;
+chp_medium;KWK, mittel;%;;;;;;4,1;Fossil;
+coal_hard;Steinkohle;%;;12,75;8,86;5,30;;4,1;Fossil;
+coal_lignite;Braunkohle;%;;20,99;17,36;17,2;;2;Fossil;
+gas;Fossile Gase;%;;7,74;11,18;5,8;;0,5;Fossil;
+gas_gud;GuD;%;;;;;;;Fossil;
+geothermal;Geothermie;%;0,04;;;;0,4;;Renewable;
+summe_fossil;Summe_fossil;%;57,62;;;;22,68;;;
+kernenergie;;;;6,66;1,5;;;;;
