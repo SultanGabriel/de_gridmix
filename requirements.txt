@@ -4,3 +4,4 @@ premise>=2.2.7
 pyam-iamc>=3.0.0
 typing_inspect>=0.9.0
 iam-units>=2023.9.12
+prophet>=1.1.6
